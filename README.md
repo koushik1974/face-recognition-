@@ -7,7 +7,7 @@ A real-time face recognition application built with **Python, OpenCV, and the `f
 
 The face recognition system uses a dataset of **210 face images across 30 individual celebrities** to build the known-face database.
 
-* **210 total images**
+* **300 total images - 210 train and 90 test**
 * **30 unique identities**
 * Multiple images per celebrity for identity representation
 * **128-dimensional face encodings** used for identity matching
@@ -170,7 +170,6 @@ Or download the repository as a ZIP from GitHub.
 ## 🧑‍💻 Built With
 
 * [OpenCV](https://opencv.org/)
-* [face_recognition](https://github.com/ageitgey/face_recognition)
 * [dlib](http://dlib.net/)
 
 ---
